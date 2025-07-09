@@ -130,4 +130,66 @@ nav li a{
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+<<<<<<< HEAD
+=======
+/* reusme section */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    margin-left: 370px;
+    
+}
+.section-title3{
+    text-align: center;
+    margin-left: 284px;
+}
+.d2{
+    margin-left: 334px;
+}
+
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience-description, .experience-sub-title{
+   color:  #757575;
+}
+footer{
+    height: 780px;
+  font-size: 130px 250px; 
+  display: flex; 
+  /* justify-content: center;
+  align-items: center; */
+  gap: 100px;
+  background-color:#FFF8F3;
+  
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    
+
+}
+.footer-column{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   margin-top: 50px;
+   padding: 150px;
+  
+}
+
+
+.text-center{
+    text-align: center;
+    margin-top: 50px;
+}
+>>>>>>> a09a3ce (Fix broken git and commit saved files)
 
